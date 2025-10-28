@@ -27,4 +27,5 @@ if 10 == 10:
     print('10 é igual a 10!')
 
 print('Fora do if.')    
+print('Fim do programa.')
 
